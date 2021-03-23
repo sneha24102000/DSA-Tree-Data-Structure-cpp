@@ -1,2 +1,2 @@
 # DSA-Tree-Data-Structure 
-Solutions of GeeksForgeeks
+Solutions of GeeksForgeeks Problems
