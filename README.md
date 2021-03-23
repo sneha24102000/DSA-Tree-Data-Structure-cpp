@@ -1,2 +1,2 @@
 # DSA-Tree-Data-Structure 
-Solutions of GeeksForgeeks Problems in 
+Solutions of GeeksForgeeks Problems in C
